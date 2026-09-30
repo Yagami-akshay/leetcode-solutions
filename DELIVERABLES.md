@@ -3,6 +3,7 @@
 **Course:** Portfolio Building for Engineering Students — GitHub-Integrated Edition (B25GE0101)  
 **Student Name:** Akshay N  
 **SRN:** R25EF021  
+**Class & Section:** CSE-B (3rd Semester)  
 **Semester:** 3rd Semester, CSE/CSIT/ISE  
 **Repository:** [https://github.com/Yagami-akshay/leetcode-solutions](https://github.com/Yagami-akshay/leetcode-solutions)  
 

@@ -3,6 +3,7 @@
 Course: **Portfolio Building for Engineering Students — GitHub-Integrated Edition (B25GE0101)**  
 Student: **Akshay N**  
 SRN: **R25EF021**  
+Class & Section: **CSE-B (3rd Semester)**  
 Semester: **3rd Semester, CSE/CSIT/ISE**  
 
 This progress log tracks problems solved, difficulty distribution, verification status, and local testing turnaround times.
